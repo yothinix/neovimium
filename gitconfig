@@ -1,0 +1,14 @@
+[user]
+	email = m@yothinix.com
+    name = yothinix
+[color]
+    ui = auto
+[diff]
+    tool = vimdiff
+[difftool]
+    prompt = false
+[core]
+    editor = nvim
+	autocrlf = input
+[http]
+	sslverify = false
